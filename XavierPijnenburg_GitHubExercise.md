@@ -1,0 +1,1 @@
+in the early 2000s, AI researchers taught machines to learn by themselves directly from data, and make predictions from it. instead of emulating reasoning by pre programmed logical rules like they did before.
